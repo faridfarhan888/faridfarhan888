@@ -17,10 +17,10 @@
 **Universiti Teknologi Malaysia (Data Engineering)** | *2025-present*
 * **Currently Learning:**
   
-    * Digital Logic
-    * Programming Technique I
-    * Discrete Sturcture
-    * Tecnology & Information System
+    * Digital Logic (SECR1013)
+    * Programming Technique I (SECJ1013)
+    * Discrete Sturcture (SECI1013)
+    * Tecnology & Information System (SECP1513)
 
 ---
 
