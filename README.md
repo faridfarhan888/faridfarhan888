@@ -20,7 +20,7 @@
     * Digital Logic (SECR1013)
     * Programming Technique I (SECJ1013)
     * Discrete Sturcture (SECI1013)
-    * Tecnology & Information System (SECP1513)
+    * Tecnology & Information System (https://github.com/faridfarhan888/SECP1513)
 
 ---
 
