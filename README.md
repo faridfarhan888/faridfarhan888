@@ -10,7 +10,8 @@ I am currently pursuing my Bachelor's degree. I am passionate about learning new
 
 **Johor Matriculation College (Physical Science)** | *2024-2025*
 
-**CGPA: 4.00**                                                                                                                                                                                                             
+**CGPA: 4.00** 
+**MUET: 4.00**  
 
 **Universiti Teknologi Malaysia (Data Engineering)** | *2025-present*
 * **Currently Learning:**
