@@ -2,7 +2,7 @@
 
 ### 🎓 Data Engineering Student at Universiti Teknologi Malaysia
 
-I am currently pursuing my Bachelor's degree. I am passionate about learning new technologies and understanding the fundamentals of how computers work.
+* I am currently pursuing my Bachelor's degree. I am passionate about learning new technologies and understanding the fundamentals of how computers work.
 
 ---
 
@@ -16,6 +16,7 @@ I am currently pursuing my Bachelor's degree. I am passionate about learning new
 
 **Universiti Teknologi Malaysia (Data Engineering)** | *2025-present*
 * **Currently Learning:**
+  
     * Digital Logic
     * Programming Technique I
     * Discrete Sturcture
