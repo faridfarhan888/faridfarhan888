@@ -12,7 +12,7 @@
 
 * **CGPA: 4.00** 
 
-* **MUET: 4.00**  
+* **MUET: 4.0**  
 
 **Universiti Teknologi Malaysia (Data Engineering)** | *2025-present*
 * **Currently Learning:**
